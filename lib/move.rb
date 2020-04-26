@@ -9,7 +9,7 @@ end
  
 
 def input_to_index(input)
-  index = input.to_i
+  puts index = input.to_i
   puts index - 1
 end
 
