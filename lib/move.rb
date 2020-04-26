@@ -7,11 +7,12 @@ def display_board(board)
 end
 
 def input_to_index(input)
-  return "#{input} - 1"
+  input.to_i = index
+  puts index - 1
 end
 
 def move(array, index, character = "X")
-  puts
+  puts 
 end
 
 board = [" ", " ", " "]
