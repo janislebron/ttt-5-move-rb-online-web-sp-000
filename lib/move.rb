@@ -7,7 +7,7 @@ def display_board(board)
 end
 
 def input_to_index(input)
-  puts "(#{input} - 1)"
+  puts "#{input} - 1"
 end
 
 def move(array, index, character)
