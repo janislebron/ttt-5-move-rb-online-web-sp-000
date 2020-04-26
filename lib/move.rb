@@ -15,7 +15,7 @@ end
 
 def move(board, index, character = "X")
   binding.pry
-array = 
+array =
 end
 
 board = [" ", " ", " "]
